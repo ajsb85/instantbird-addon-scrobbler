@@ -1,0 +1,2 @@
+# instantbird-addon-scrobbler
+Scrobbler 
